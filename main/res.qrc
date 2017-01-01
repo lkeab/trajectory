@@ -1,0 +1,53 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/check_hover.png</file>
+        <file>images/check_normal.png</file>
+        <file>images/check_pressed.png</file>
+        <file>images/close_hover.png</file>
+        <file>images/close_normal.png</file>
+        <file>images/close_pressed.png</file>
+        <file>images/desktop.png</file>
+        <file>images/feedback_hover.png</file>
+        <file>images/feedback_normal.png</file>
+        <file>images/feedback_pressed.png</file>
+        <file>images/game_box.png</file>
+        <file>images/gray_medal.png</file>
+        <file>images/ico_diannaomenzhen.png</file>
+        <file>images/ico_dsmain.png</file>
+        <file>images/ico_Examine.png</file>
+        <file>images/ico_expert.png</file>
+        <file>images/ico_softmgr.png</file>
+        <file>images/ico_SpeedupOpt.png</file>
+        <file>images/ico_SysRepair.png</file>
+        <file>images/ico_TraceCleaner.png</file>
+        <file>images/medal.png</file>
+        <file>images/menu_hover.png</file>
+        <file>images/menu_normal.png</file>
+        <file>images/menu_pressed.png</file>
+        <file>images/min_hover.png</file>
+        <file>images/min_normal.png</file>
+        <file>images/min_pressed.png</file>
+        <file>images/mobile.png</file>
+        <file>images/net_pretext.png</file>
+        <file>images/net_speed.png</file>
+        <file>images/recovery.png</file>
+        <file>images/skin.png</file>
+        <file>images/skin_hover.png</file>
+        <file>images/skin_normal.png</file>
+        <file>images/skin_pressed.png</file>
+        <file>images/window_shadow.png</file>
+        <file>images/background_mainwnd.png</file>
+        <file>images/logo.png</file>
+        <file>images/cloud1.png</file>
+        <file>images/cloud2.png</file>
+        <file>images/about.png</file>
+        <file>images/download.png</file>
+        <file>images/refresh.png</file>
+        <file>images/search1.png</file>
+        <file>images/upload.png</file>
+        <file>images/roundabout.png</file>
+    </qresource>
+    <qresource prefix="/css">
+        <file>mainWin.qss</file>
+    </qresource>
+</RCC>
